@@ -74,7 +74,3 @@ This PoC demonstrates how to leverage AWS Glue to facilitate seamless data trans
 - [AWS Glue Documentation](https://docs.aws.amazon.com/glue/)
 - [MongoDB Atlas Documentation](https://docs.atlas.mongodb.com/)
 - [AWS Redshift Documentation](https://docs.aws.amazon.com/redshift/)
-
----
-
-Feel free to customize this `README.md` according to your specific setup and requirements. This document should serve as a comprehensive guide to help you implement and understand the PoC effectively.
